@@ -18,7 +18,7 @@ npm install
 ```
 npm start
 ```
-  Navigate to `http://localhost:5000`
+  Navigate to `http://localhost:3000`
 
 To run the tests.
 ```
