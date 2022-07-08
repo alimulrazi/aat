@@ -16,7 +16,7 @@ For development, you will only need Node.js and a node global package installed 
 - Implement Authentication & Authorization Process for user list using(JWT)
 - Prepare continious integration + deployment pipeline (CICD) with Github and AWS
 - Write more test cases
-- Data source would be used instead of get data from File.
+- The NoSQL/RDBMS data source could be used instead of getting data from File.
 ```
 ## Getting started
 - Clone the repository
