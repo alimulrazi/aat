@@ -4,6 +4,20 @@ For AAT API I have used Node Js, Express, JEST.
 ## Pre-requisites
 For development, you will only need Node.js and a node global package installed in your environement. 
 
+## Tasks Completed:
+```
+- Get – Gets all items from the data source
+- Get by Id – Gets one item from the data source where the id matches the id being passed
+- Filter by Item – Filter the data source by an item passed. (Ideally should bring a list of 2 or more items)
+- Written 3 test cases for Unit Test
+```
+## Tasks TODO (Improvements):
+```
+- Implement Authentication & Authorization Process for user list using(JWT)
+- Prepare continious integration + deployment pipeline (CICD) with Github and AWS
+- Write more test cases
+- Data source would be used instead of get data from File.
+```
 ## Getting started
 - Clone the repository
 ```
